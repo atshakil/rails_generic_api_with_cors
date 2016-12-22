@@ -1,24 +1,15 @@
-# README
+# Rails generic API with CORS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Scaffolds
 
-Things you may want to cover:
+#### User
 
-* Ruby version
+  * Name: string
+  * Email: string
+  * Age: integer
 
-* System dependencies
+#### Note
 
-* Configuration
+  * Title: string
+  * Content: text
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
